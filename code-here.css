@@ -1,0 +1,36 @@
+#classic {
+    background: #fafad2;
+    font-weight: bold;
+    padding: 12px;
+    text-align: justify;
+}
+
+#modern {
+    background: #fad60b;
+    text-align: center;
+    font-weight: 500;
+    font-family: Arial;
+    padding: 16px;
+}
+
+#impact {
+    background: #8fe69b;
+    text-align: center;
+    padding: 15px;
+    border: 15px solid black;
+    border-style: double;
+    font-family: Arial;
+    font-weight: 600;
+}
+
+#elise {
+    background: #dfdfdd
+}
+
+#doubles {
+
+}
+
+#gaudi {
+
+}
